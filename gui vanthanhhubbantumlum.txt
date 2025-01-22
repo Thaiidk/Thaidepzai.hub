@@ -146,7 +146,7 @@ function Library:CreateWindow(hubname)
     UICorner.CornerRadius = UDim.new(0, 5)
     UICorner.Parent = YTB
 
-    YT_Logo.Name = "YT_Logo"
+    YT_Logo.Name = "meme_script"
     YT_Logo.Parent = YTB
     YT_Logo.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     YT_Logo.BackgroundTransparency = 1.000
@@ -154,7 +154,7 @@ function Library:CreateWindow(hubname)
     YT_Logo.BorderSizePixel = 0
     YT_Logo.Position = UDim2.new(0, 5, 0, 1)
     YT_Logo.Size = UDim2.new(0, 23, 0, 23)
-    YT_Logo.Image = "http://www.roblox.com/asset/?id=81127365331139"
+    YT_Logo.Image = "86753719370332"
 
     YT_Title.Name = "YT_Title"
     YT_Title.Parent = YTB
